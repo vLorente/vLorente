@@ -2,7 +2,7 @@
 
 - 🔥 My current favourite languages are **Python** and **JavaScript/TypeScript**
 - 🙋 I’m currently working on ERP develop with **Tryton** and Hybrid APPs with **Angular+Ionic**
-- 🌱 I’m currently learning **FlaskAPI** with **AWS Postgresql** & **AstroJS**
+- 🌱 I’m currently learning **FlaskAPI** with **AWS Postgresql** for Backend & **AstroJS** in Frontend
 - 📫 How to reach me: **vlorentejimenez@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
