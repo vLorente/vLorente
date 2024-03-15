@@ -2,10 +2,10 @@
 
 - 🔥 My current favourite languages are **Python** and **JavaScript/TypeScript**
 - 🙋 I’m currently working on ERP develop with **Tryton** and Hybrid APPs with **Angular+Ionic**
-- 🌱 I’m currently learning **FastAPI** and **WebScraping**
+- 🌱 I’m currently learning **FastAPI**, **WebScraping** and **AstroJS**
 - 📫 How to reach me: **vlorentejimenez@gmail.com**
 
-<h3 align="left">Languages and Tools:</h3>
+<!--<h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
     <a href="https://www.python.org" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/>
@@ -23,6 +23,7 @@
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/>
     </a>
 </p>
+-->
 <!--
 **vLorente/vLorente** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
