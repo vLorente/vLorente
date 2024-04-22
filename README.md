@@ -1,8 +1,8 @@
 ### Hello world, Valentín here! 👽
 
-- 🔥 My current favourite languages are **Python** and **JavaScript/TypeScript**
+- 🔥 My current favourite languages are **Python** and **TypeScript**
 - 🙋 I’m currently working on ERP develop with **Tryton** and Hybrid APPs with **Angular+Ionic**
-- 🌱 I’m currently learning **FastAPI**, **WebScraping** and **AstroJS**
+- 🌱 I’m currently learning **FastAPI** and **AstroJS**
 - 📫 How to reach me: **vlorentejimenez@gmail.com**
 
 <!--<h3 align="left">Languages and Tools:</h3>
