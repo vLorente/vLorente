@@ -1,9 +1,11 @@
 ### Hello world, Valentín here! 👽
 
-- 🔥 My current favourite languages are **Python** and **TypeScript**
-- 🙋 I’m currently working on ERP develop with **Tryton** and Hybrid APPs with **Angular+Ionic**
-- 🌱 I’m currently learning **FastAPI** and **AstroJS**
+Welcome to my personal repository. Here, you can find what I'm testing, learning or developing at this moment.  
 
+- 🚀 Currently, I'm very excited about the new web framework [**AstroJS**](https://astro.build/)
+- 🔥 My current favourite languages are **Python** and **TypeScript**
+
+📖 If you want to know more about me, you can find my CV and porfolio on my [_personal site_](https://vlorente.dev).
 <!--<h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
     <a href="https://www.python.org" target="_blank" rel="noreferrer">
