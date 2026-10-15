@@ -11,6 +11,6 @@ Más de 8 años entre desarrollo y producto; rol de producto desde 2018.
 **Stack**
 Python · TypeScript · SQL · FastAPI · SQLModel · SQLAlchemy · Tryton
 Astro · Angular · Ionic · React · PostgreSQL · Metabase
-Docker · GitHub Actions · Vercel · Firebase · SAP ABAP · Odoo
+Docker · GitHub Actions · Vercel · Firebase
 
 **Contacto**: [LinkedIn](https://es.linkedin.com/in/vlorente) · vlorentejimenez@gmail.com
